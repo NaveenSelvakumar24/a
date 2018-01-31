@@ -2,7 +2,7 @@
 {
 int l, r;
 quickSort(A, 0, arr_size-1);
-array*/= 0;
+array= 0;
 r = arr_size-1; 
 while (l < r)
 {
