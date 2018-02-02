@@ -2,9 +2,9 @@
 int main()
 {
 int i,a[10],n;
-printf("enter the number:");
+printf("enter the number");
 scanf("%d",&n);
-printf("enter %d number:",n);
+printf("%d number",n);
 for(i=0;i<n;i++)
 {
 scanf("%d",&a[10]);
