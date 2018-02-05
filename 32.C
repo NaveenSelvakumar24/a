@@ -3,7 +3,7 @@ int main()
 {
 int i,count=0;
 char str[20];
-printf("give the str value");
+printf("give the string value");
 scanf("%s",&sr);
 for(i=0;str[i]!=0;i++)
 {
