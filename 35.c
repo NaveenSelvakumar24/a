@@ -12,6 +12,6 @@ if(str[i]=='0'||str[i]=='1'||str[i]=='2'||str[i]=='3'||str[i]=='4'||str[i]=='5'|
 coun=count+1;
 }
 }
-printf("Total number of numeric characters in the String are %d",count);
+printf("Total number of numeric characters in  String are %d",count);
 return 0;
 }
