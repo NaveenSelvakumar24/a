@@ -29,4 +29,16 @@ case 7:
 printf("\n seven");
 break;
 case 8:
-printf("\n 
+printf("\n eight");
+break;
+case 9:
+printf("\n nine");
+break;
+case 10:
+printf("\n ten");
+break;
+default:
+printf("Enter the number within 10");
+}
+getch();
+}
