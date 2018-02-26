@@ -26,7 +26,9 @@ if(flag==1 && flag==2)
 {
 printf("\n yes");
 }
-	else
-	{
-		printf("\n no");
-	}
+else
+{
+printf("\n no");
+}
+getch();
+}
