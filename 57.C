@@ -13,6 +13,5 @@ void swap(int a,int b)
 a=10;
 b=5;
 printf("%d %d",a,b);
-return 0;
 }
 
