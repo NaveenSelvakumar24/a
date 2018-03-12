@@ -7,7 +7,7 @@ printf("Enter a number");
 scanf("%d",&n);
 if(n%13==0)
 {
-printf(" yes");
+printf("yes");
 }
 getch();
 }
