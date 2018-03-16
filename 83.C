@@ -14,7 +14,7 @@ printf("%d\n",n1/n2);
 }
 else
 {
-printf("%d\n",n1%n2);
+printf("%d \n",n1%n2);
 }
 getch();
 }
