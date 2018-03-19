@@ -13,7 +13,7 @@ break;
 x=y;
 y=remainder;
 }while(remainder!=0);
-gcd=y;
+gcd =y;
 printf("\n the gcd of the given number is: %d",gcd);
 }
 getch();
